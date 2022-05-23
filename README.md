@@ -14,7 +14,7 @@ Used **ResNet** & **GoogleNet** models to classify 48*48 **grayscale** images in
 # How to run
 <ul>
 <li>git clone https://github.com/Stanislav-3/EmotionsClassifier.git</li>
-<li>download [dataset](https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge/data) from kaggle, 
+<li>download <a href="https://www.kaggle.com/competitions/challenges-in-representation-learning-facial-expression-recognition-challenge/data">dataset</a> from kaggle, 
 and store it in 'data/' directory in the project root</li>
 <li>Done!</li>
 </ul>
